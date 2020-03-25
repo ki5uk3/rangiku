@@ -1,6 +1,6 @@
 # rangiku
 
-enum subdomains,run fast mass nmap,check http/https servers,take web screenshots :3
+simple bash recon script for enum subdomains,run fast mass nmap,check http/https servers,take web screenshots :3
 
 <b>Pre Requirements</b>
 
