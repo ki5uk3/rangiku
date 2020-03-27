@@ -16,7 +16,9 @@ user@user:~$cd ~/rangiku<br>
 chmod +x rangiku.sh
 
 <b>Use</b>
+
 user@user:~$./rangiku.sh [DOMAIN]
 
 <b>Example</b>
+
 user@user:~$./rangiku.sh tiktok.com
