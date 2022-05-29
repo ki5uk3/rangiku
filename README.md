@@ -1,6 +1,6 @@
 # rangiku
 
-simple bash recon script for enum subdomains,run fast mass nmap,check http/https servers,take web screenshots :3
+simple bash script for recon.
 
 <b>Pre Requirements</b>
 
@@ -8,17 +8,20 @@ simple bash recon script for enum subdomains,run fast mass nmap,check http/https
 2)Subfinder<br>
 3)httprobe<br>
 4)nmap<br>
-5)aquatone<br>
+5)knockpy<br>
+6)Amass<br>
+7)Assetfinder<br>
+8)Httprobe<br>
+9)Nuclei
 
 <b>Set Permisson</b>
 
-user@user:~$cd ~/rangiku<br>
-chmod +x rangiku.sh
+$ chmod +x rangiku.sh
 
 <b>Use</b>
 
-user@user:~$./rangiku.sh [DOMAIN]
+$ ./rangiku.sh [DOMAIN]
 
 <b>Example</b>
 
-user@user:~$./rangiku.sh tiktok.com
+$ ./rangiku.sh tiktok.com
